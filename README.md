@@ -1,8 +1,10 @@
 Jeppe Klitgaard
 ===============
 
-This repository contains my professional profile, namely my CV and PDF's of various
-diplomas and certifications.
+THIS HAS BEEN ARCHIVED.
 
-Lots of big binary files which isn't terribly good to put in ``git``, but it is nice to
-have the compiled files available directly on GitHub.
+PLEASE SEE THE "jeppe.science" REPOSTITORY.
+
+---
+
+This will be deleted once I am entirely sure that the new setup is working.
